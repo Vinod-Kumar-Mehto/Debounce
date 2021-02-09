@@ -1,0 +1,13 @@
+form{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+ul{
+    position: absolute;
+    left: 500px;
+    top: 120px;
+    list-style-type: none;
+    display: block;
+}
